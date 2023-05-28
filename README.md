@@ -1,5 +1,5 @@
-# Home_Sales
-## Overview of the Analysis
+## Home_Sales
+# Overview of the Analysis
 The purpose of this analysis was to leverage PySpark and Spark SQL to analyze home sales data.
 
 # Data Description:
